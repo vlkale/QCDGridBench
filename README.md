@@ -1,2 +1,2 @@
 # QCDBench
-Benchmark for Grid code of ECP lattice QCD project
+This is a repository benchmark for Grid code of ECP lattice QCD project
